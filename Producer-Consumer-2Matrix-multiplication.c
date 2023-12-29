@@ -11,7 +11,7 @@
 
 
 
-// i definde a new type to aviod any data confilt in the product phase ; 
+// i definde a new type to avoid any data confilt in the product phase ; 
 typedef struct IndexesOfThreadsDate {
     int row;
     int column;
